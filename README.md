@@ -37,6 +37,8 @@ STEP-5: Integrate all the tools to Jenkins
 
 STEP-6: Add Dockerhub Credentials
 
+
+
 STEP-7: Create a Jenkins Job
 
 STEP-8: Docker hub registry image
